@@ -1,10 +1,9 @@
-import React, {Component} from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom'
+import App from "./components/app/App";
 
-ReactDOM.render(<p>pppp</p>,
+ReactDOM.render(<App/>,
     document.getElementById("app")
-
-
 );
 
 
