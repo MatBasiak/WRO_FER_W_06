@@ -19,13 +19,18 @@ module.exports = {
                     {
                         loader: "css-loader",
                         options:{
-                            modules:true
+                            modules:true,
+                            localIdentName:"[local]_[hash]"
                         }
                     },
                     {
                         loader: "sass-loader"
                     }
                 ]
+            },
+            {
+                test:/\.(jpg|png)$/,
+                use:["file-loader"]
             }
         ]
     },
