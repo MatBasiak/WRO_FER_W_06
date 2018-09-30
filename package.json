@@ -1,0 +1,22 @@
+{
+  "name": "wro-fer-w-06",
+  "version": "0.0.1",
+  "description": "moj projekt ADRES : https://frechpriest.github.io/WRO_FER_W_06/",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frechpriest/WRO-fer-w-06.git"
+  },
+  "author": "Mateusz Basiak ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frechpriest/WRO-fer-w-06/issues"
+  },
+  "homepage": "https://github.com/frechpriest/WRO-fer-w-06#readme"
+}
